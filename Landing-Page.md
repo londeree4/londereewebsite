@@ -1,7 +1,6 @@
 ---
 title: "Landing Page"
 author: "AML"
-date: "12/31/2019"
 output: 
   html_document:
     keep_md: true
