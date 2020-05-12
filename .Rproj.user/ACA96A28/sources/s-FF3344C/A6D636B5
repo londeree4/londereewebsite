@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1542943790",
+    "hash" : "0",
     "id" : "A6D636B5",
-    "lastKnownWriteTime" : 1589255276,
-    "last_content_update" : 1589255276,
+    "lastKnownWriteTime" : 1589255739,
+    "last_content_update" : 1589255739,
     "path" : "~/allisonlondereewebsite/londereewebsite/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
