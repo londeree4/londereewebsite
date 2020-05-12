@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1589255278212.000,
+    "created" : 1589255741215.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "4279641884",
-    "id" : "FD7AFD0B",
-    "lastKnownWriteTime" : 1589255276,
-    "last_content_update" : 1589255276,
+    "id" : "650CD700",
+    "lastKnownWriteTime" : 1589255738,
+    "last_content_update" : 1589255738,
     "path" : "~/allisonlondereewebsite/londereewebsite/content/post/2015-07-23-r-rmarkdown.Rmd",
     "project_path" : "content/post/2015-07-23-r-rmarkdown.Rmd",
     "properties" : {
@@ -16,7 +16,7 @@
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 1,
+    "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
